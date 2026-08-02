@@ -73,6 +73,3 @@ Welcome to the Chat with Multiple PDFs GitHub repository! This project is a Stre
 6. Optionally, you can save the newly created vector database for future use by clicking "Save the newly created Database."
 
 7. To load a pre-existing vector database, enter the path to the database file and click "Load Database."
-
-### To-Do.
--  Add support to link with web hosted vector-database like [pinecone](https://www.pinecone.io/) etc.
