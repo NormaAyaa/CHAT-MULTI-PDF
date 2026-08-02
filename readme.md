@@ -52,7 +52,7 @@ Welcome to the Chat with Multiple PDFs GitHub repository! This project is a Stre
    pip install -r requirements.txt
    ```
    
-4. Rename `.my_env` file to `.env`. Add your open API key (Huggingface key(optional)) to `.env` file.
+4. Add `.env` and your open API key (Huggingface key(optional)).
 
    
 ### Usage
