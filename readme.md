@@ -45,7 +45,7 @@ Welcome to the Chat with Multiple PDFs GitHub repository! This project is a Stre
 2. Change to the project directory:
 
    ```bash
-      cd multi-pdf-query
+      cd CHAT-MULTI-PDF
 
 3. Install the required Python packages:
    ```
