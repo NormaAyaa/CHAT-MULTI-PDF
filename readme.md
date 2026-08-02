@@ -40,7 +40,7 @@ Welcome to the Chat with Multiple PDFs GitHub repository! This project is a Stre
 1. Clone the repository to your local machine:
 
    ```bash
-  git clone git@github.com:NormaAyaa/CHAT-MULTI-PDF.git
+     git clone ://github.com/NormaAyaa/CHAT-MULTI-PDF.git
 
 2. Change to the project directory:
 
